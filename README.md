@@ -7,6 +7,4 @@ numerics for optimal control of stochastic Kolmogorov systems
   - Lotka-Volterra model (lot-vol.py)
   - SIR model (sir-jump.py)
 
-## referencies
-
 
